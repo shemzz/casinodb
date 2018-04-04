@@ -14,19 +14,13 @@
     }
   ],
   "users": [
-    {
-      "chips": 126,
-  "name": "Dabid Shemang",
-   "email": "davidshemang@gmail.com",
-  "userID": "wash" 
-    },
-    {
-      "chips": 201,
-  "name": "Eze Wodu",
-   "email": "wodueze@tph.com",
-  "userID": "last" 
-    }
-    
+  { name: 'Shemang david Joshua', email: 'davidshemang@gmail.com', chip: 342, id: "xachgajgdj" },
+  { name: 'Jahpheth Goje', email: 'nsgoje@gmail.com', chip: 602, id: "vdskjsjsaj" },
+  { name: 'Ruth Salihu', email: 'babypizzle@yahoo.com', chip: 193, id: "loahndn" },
+  { name: 'Av Benjamin', email: 'av2babylon@yahoo.com', chip: 3912, id: "iiamndhhajj" },
+  { name: 'Shemang david Joshua', email: 'davidshemang@gmail.com', chip: 342, id: "xachgajgdj" },
+  { name: 'Ihunaya Thompson Amadi', email: 'jjthompson@ymail.com', chip: 972, id: "xachgajgdj" },
+  { name: 'Isaac Newton', email: 'greatestscientist@gmail.com', chip: 882, id: "dydxbcz2" }
   ],
   "profile": {
     "name": "typicode"
