@@ -1,8 +1,10 @@
 {
   "posts": [
-    { "id": 1, "name": "email", "chips": 200 },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 929748, "name":"Shemang David", "email": "davidshemang@gmail.com", "chips": 290, "token":"ksdgisahdbviajhdvuaj" },
+    { "id": 029389, "name":"Jahphet Goje", "email": "nsgoje@gmail.com", "chips": 973, "token":"ueudjndkshddsjkhs" },
+    { "id": 184783, "name":"Ruth Salihu", "email": "babypizzle@yahoo.com", "chips": 8266, "token":"msbckhbsihejbw" },
+    { "id": 949883, "name":"Joel JAmes", "email": "wisper2jj@gmail.com", "chips": 906, "token":"sihdihvdcusybvciy" }
+    
   
   ],
   "comments": [
